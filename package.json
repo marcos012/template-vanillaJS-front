@@ -1,0 +1,24 @@
+{
+  "name": "template-vanillajs-front",
+  "version": "1.0.0",
+  "description": "Template with Vanilla JS",
+  "main": "index.js",
+  "scripts": {
+    "dev": "babel ./src/ -o ./dist/bundle.js -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcos012/template-vanillaJS-front.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marcos012/template-vanillaJS-front/issues"
+  },
+  "homepage": "https://github.com/marcos012/template-vanillaJS-front#readme",
+  "dependencies": {
+    "@babel/cli": "^7.8.4",
+    "@babel/core": "^7.9.6",
+    "@babel/preset-env": "^7.9.6"
+  }
+}
