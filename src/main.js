@@ -1,1 +1,2 @@
-console.log('sss');
+import "../public/scss/styles.scss"
+console.log('running');
